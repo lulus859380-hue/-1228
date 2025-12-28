@@ -1,0 +1,8 @@
+{
+  "name": "命理卡片1218-改版",
+  "description": "A numerology and personality card generator powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
